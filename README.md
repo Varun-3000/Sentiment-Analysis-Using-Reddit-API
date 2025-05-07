@@ -1,5 +1,5 @@
 # Sentiment-Analysis-Using-Reddit-API
-
+## _Note: Google Colab is used in this project_
 ### 1. Reddit API Setup
 To create an app in the Reddit Developer Portal and obtain your API key (client ID and client secret), follow these steps:
 1. Go to [https://www.reddit.com/prefs/apps](https://www.reddit.com/prefs/apps)
@@ -28,4 +28,8 @@ client_id = "your_client_id"
 client_secret = "your_client_secret"
 user_agent = "your_app_user_agent"
 ```
+### 4. Install Dependencies
 
+```
+pip install -r requirements.txt
+```
